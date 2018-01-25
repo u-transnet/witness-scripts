@@ -1,0 +1,2 @@
+-e git://github.com/u-transnet/python-graphenelib@0.5.4-utt#egg=graphenelib
+-e git://github.com/u-transnet/python-utransnet@0.1.8-utt#egg=bitshares
